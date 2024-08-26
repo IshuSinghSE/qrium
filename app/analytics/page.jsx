@@ -1,4 +1,4 @@
-import Layout from '../components/Layout';
+import Layout from '../../components/Layout';
 import AnalyticsChart from '../components/AnalyticsChart';
 
 export default function Analytics() {

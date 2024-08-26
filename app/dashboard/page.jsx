@@ -1,5 +1,5 @@
-import Layout from '../components/Layout';
-import QRCodeList from '../components/QRCodeList';
+import Layout from '../../components/Layout';
+import QRCodeList from '../../components/QRCodeList';
 
 export default function Dashboard() {
   return (
